@@ -3,6 +3,8 @@ name: meeting-notes
 description: This is 2nd. Turn supplied meeting notes into decisions, action items, and open questions. Use for meeting minutes and follow-up summaries, not release notes or numeric analysis.
 ---
 
+This is copy of skill md
+
 # Meeting Notes
 
 Produce meeting minutes from the material supplied by the user. Do not retrieve
